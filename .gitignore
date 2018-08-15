@@ -1,4 +1,12 @@
 
+# Added manually to gitignore
+*.sln
+*.vcxproj
+*.filters
+# end of manually added lines
+
+
+
 # Created by https://www.gitignore.io/api/c++,visualstudio
 
 ### C++ ###
